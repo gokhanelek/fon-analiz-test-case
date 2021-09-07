@@ -13,6 +13,7 @@ import { FonAnaliziService } from "src/app/services/fon-analizi.service";
 export class FonAnalizFilterComponent implements OnInit {
   minDate = new Date("2021-01-01");
   maxDate = new Date();
+  isStatus: boolean = false;
 
   filterForm = this.fb.group({
     fonType: ["", Validators.required],
@@ -58,8 +59,7 @@ export class FonAnalizFilterComponent implements OnInit {
         startDate: this.filterForm.get("range").get("start").value,
         endDate: this.filterForm.get("range").get("end").value,
         period: this.filterForm.get("displayPeriod").value,
-      })
-      .subscribe();
+      }).subscribe();
   }
 
   changeFonType(event) {

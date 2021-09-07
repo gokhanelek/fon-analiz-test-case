@@ -76,6 +76,8 @@ export class FonAnaliziService {
             });
           }
 
+          if (data === null) return data;
+
           if (period === PERIODS.DAYLY) {
             data.forEach(
               (item) => (item.label = format(item.Tarih, "dd-MM-yyyy"))
