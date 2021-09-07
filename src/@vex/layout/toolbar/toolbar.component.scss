@@ -1,0 +1,33 @@
+:host {
+  background: var(--toolbar-background);
+  box-sizing: border-box;
+  color: var(--toolbar-color);
+  display: block;
+  white-space: nowrap;
+  width: 100%;
+  z-index: var(--toolbar-z-index);
+}
+
+.toolbar {
+  height: var(--toolbar-height);
+
+  .toolbar-title {
+    display: flex;
+    align-items: flex-end;
+
+    .title-text {
+      margin-left: 5px;
+      font-size: 1rem;
+      font-weight: 700;
+    }
+  }
+}
+
+.mat-icon {
+  color: var(--toolbar-icon-color);
+}
+
+a {
+  color: var(--toolbar-color);
+  text-decoration: none;
+}

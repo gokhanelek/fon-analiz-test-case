@@ -1,0 +1,37 @@
+export interface FonInfo {
+  label: string;
+  Tarih: Date;
+  FonKodu: string;
+  FonUnvani: string;
+  FonTipi: string;
+  FonTuru: string;
+  ToplamDeger: number;
+  BirimPayDegeri: number;
+  DolasimdakiPaySayisi: number;
+  YatirimciSayisi: number;
+  BankaBonosu: number;
+  Diger: number;
+  DevletTahvili: number;
+  DovizOdemeliBono: number;
+  DovizOdemeliTahvil: number;
+  Eurobond: number;
+  FinansmanBonosu: number;
+  FonKatilmaBelgesi: number;
+  GayrimenkulSertifikasi: number;
+  HazineBonosu: number;
+  HisseSenedi: number;
+  KamuDisBorclanmaAraci: number;
+  KamuKiraSertifikasi: number;
+  KatilimHesabi: number;
+  KiymetliMaden: number;
+  OzelSektorKiraSertifikasi: number;
+  OzelSektorTahvili: number;
+  TersRepo: number;
+  TPP: number;
+  TurevAraci: number;
+  VarligaDayaliMenkulKiymet: number;
+  VadeliMevduat: number;
+  YabanciBorclanmaAraci: number;
+  YabanciHisseSenedi: number;
+  YabanciMenkulKiymet: number;
+}

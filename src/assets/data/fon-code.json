@@ -1,0 +1,6257 @@
+[
+    {
+        "Kodu": "YD4",
+        "Adi": "24 GAYRIMENKUL VE GIRISIM SERMAYESI PORTFÖY YÖNETIMI A.S. PORTAKAL ÇIÇEGI GAYRIMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "YE1",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİM A.Ş. DİJİTAL TEKNOLOJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "YD5",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş.  A1 GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "YD1",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. ALTIN BAŞAK GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "YD2",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. ALZAMİL KİRA GETİRİLİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "YD9",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. AVALON GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "YD8",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. E-TİCARET GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "YG1",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. LOTUS GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "YD3",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. PRİMO GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "YD7",
+        "Adi": "24 GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş.KARDELEN GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "DKN",
+        "Adi": "AED FONUNA BAĞLI YAN HESAP (TRFDGOZ71915)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "APO",
+        "Adi": "AED FONUNA BAĞLI YAN HESAP (TRSAKYP41612)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "POR",
+        "Adi": "AED FONUNA BAĞLI YAN HESAP (TRSBISEA1611)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FOY",
+        "Adi": "AED FONUNA BAĞLI YAN HESAP (TRSBMKS12214)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PFY",
+        "Adi": "AED FONUNA BAĞLI YAN HESAP (TRSPKPB41717)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ANS",
+        "Adi": "AEGON EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ANE",
+        "Adi": "AEGON EMEKLİLİK VE HAYAT A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEY",
+        "Adi": "AEGON EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ANK",
+        "Adi": "AEGON EMEKLİLİK VE HAYAT A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ANG",
+        "Adi": "AEGON EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "PUO",
+        "Adi": "AK PORT.ÖZEL SEK.BORÇ.ARÇ.YAT.YAPAN%114 ANAPARA KOR.AMÇ.YİRMİDOKUZUNCU FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ADJ",
+        "Adi": "AK PORTFÖY  %100 ANAPARA KORUMA AMAÇLI YİRMİİKİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFA",
+        "Adi": "AK PORTFÖY  AMERİKA YABANCI HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFV",
+        "Adi": "AK PORTFÖY  AVRUPA YABANCI HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AJS",
+        "Adi": "AK PORTFÖY %100 ANAPARA KORUMA AMAÇLI 18. FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AJD",
+        "Adi": "AK PORTFÖY %100 ANAPARA KORUMA AMAÇLI 19. FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AJO",
+        "Adi": "AK PORTFÖY %100 ANAPARA KORUMA AMAÇLI ONALTINCI FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AUI",
+        "Adi": "AK PORTFÖY %100 ANAPARA KORUMA AMAÇLI ONBEŞİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AIL",
+        "Adi": "AK PORTFÖY %100 ANAPARA KORUMA AMAÇLI ONYEDİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ACJ",
+        "Adi": "AK PORTFÖY %100 ANAPARA KORUMA AMAÇLI YİRMİBİRİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AKJ",
+        "Adi": "AK PORTFÖY %100 ANAPARA KORUMA AMAÇLI YİRMİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ARJ",
+        "Adi": "AK PORTFÖY %100 ANAPARA KORUMA AMAÇLI YİRMİÜÇÜNCÜ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AUU",
+        "Adi": "AK PORTFÖY %110 ANAPARA KORUMA AMAÇLI YİRMİDÖRDÜNCÜ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PZR",
+        "Adi": "AK PORTFÖY %115 ANAPARA KORUMA AMAÇLI OTUZBİRİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PZO",
+        "Adi": "AK PORTFÖY %115 ANAPARA KORUMA AMAÇLI OTUZUNCU FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AGC",
+        "Adi": "AK PORTFÖY AGI DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ANL",
+        "Adi": "AK PORTFÖY ALTERNATİF BANK PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AOY",
+        "Adi": "AK PORTFÖY ALTERNATİF ENERJİ YABANCI HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFO",
+        "Adi": "AK PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ABU",
+        "Adi": "AK PORTFÖY BİREBİR BANKACILIK DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ARL",
+        "Adi": "AK PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AKU",
+        "Adi": "AK PORTFÖY BİST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ADP",
+        "Adi": "AK PORTFÖY BİST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ALC",
+        "Adi": "AK PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ADE",
+        "Adi": "AK PORTFÖY DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "APJ",
+        "Adi": "AK PORTFÖY DÖRDÜNCÜ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AKE",
+        "Adi": "AK PORTFÖY EUROBOND (AMERİKAN DOLARI) BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZFB",
+        "Adi": "AK PORTFÖY FİNTEK VE BLOKZİNCİRİ TEKNOLOJİLERİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GUM",
+        "Adi": "AK PORTFÖY GÜMÜŞ FON SEPETI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AK3",
+        "Adi": "AK PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PAI",
+        "Adi": "AK PORTFÖY ING BANK ÖZEL BANKACILIK VE PLATINUM DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ALD",
+        "Adi": "AK PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ARM",
+        "Adi": "AK PORTFÖY İKİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AVT",
+        "Adi": "AK PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AIS",
+        "Adi": "AK PORTFÖY KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "APT",
+        "Adi": "AK PORTFÖY ORTA VADELI BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AYR",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "BFF",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN % 105 ANAPARA KORUMA AMAÇLI OTUZDOKUZUNCU FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "BOA",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN % 105 ANAPARA KORUMA AMAÇLI OTUZSEKİZİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "LHN",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN % 110 ANAPARA KORUMA AMAÇLI KIRKDOKUZUNCU FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "LHF",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN % 110 ANAPARA KORUMA AMAÇLI KIRKSEKİZİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "BHZ",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %100 ANAPARA KORUMA AMAÇLI KIRKBEŞİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OGZ",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %100 ANAPARA KORUMA AMAÇLI KIRKBİRİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "BHG",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %100 ANAPARA KORUMA AMAÇLI KIRKDÖRDÜNCÜ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OYG",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %100 ANAPARA KORUMA AMAÇLI KIRKINCI FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZKF",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %100 ANAPARA KORUMA AMAÇLI KIRKİKİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZVK",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %100 ANAPARA KORUMA AMAÇLI KIRKÜÇÜNCÜ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AOO",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %105 ANAPARA KORUMA AMAÇLI OTUZALTINCI FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OAA",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %105 ANAPARA KORUMA AMAÇLI OTUZYEDİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YJE",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI ELLİBİRİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "BJA",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI ELLİİKİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YJD",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI ELLİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FFB",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI KIRKALTINCI FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FFL",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI KIRKYEDİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OYY",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI OTUZBEŞİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OKA",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI OTUZDÖRDÜNCÜ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KAO",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI OTUZİKİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KOF",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %110 ANAPARA KORUMA AMAÇLI OTUZÜÇÜNCÜ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PUS",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %115 ANAPARA KORUMA AMAÇLI YİRMİSEKİZİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PUY",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %115 ANAPARA KORUMA AMAÇLI YİRMİYEDİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AMJ",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %120 ANA PARA KORUMA AMAÇLI YİRMİALTINCI FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AMV",
+        "Adi": "AK PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %120 ANA PARA KORUMA AMAÇLI YİRMİBEŞİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ALE",
+        "Adi": "AK PORTFÖY PARA PIYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AES",
+        "Adi": "AK PORTFÖY PETROL YABANCI BYF FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AZF",
+        "Adi": "AK PORTFÖY PY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFS",
+        "Adi": "AK PORTFÖY SAĞLIK SEKTÖRÜ YABANCI HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ICZ",
+        "Adi": "AK PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TGR",
+        "Adi": "AK PORTFÖY TURİZM VE SEYAHAT SEKTÖRÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AK2",
+        "Adi": "AK PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ODV",
+        "Adi": "AK PORTFÖY ÜÇÜNCÜ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "BGP",
+        "Adi": "AK PORTFÖY ÜÇÜNCÜ PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFT",
+        "Adi": "AK PORTFÖY YENİ TEKNOLOJİLER YABANCI HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ABX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. BORCLANMA ARACLARI ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ADX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. DEĞIŞKEN ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AFX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. FON SEPETI ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AHX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. HISSE SENEDI ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ALX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. KATILIM ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AGX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. KIYMETLI MADENLER ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AKX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. KORUMA AMAÇLI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "APX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. PARA PIYASASI ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ASX",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş. SERBEST ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ICI",
+        "Adi": "AK PORTFÖY YÖNETIMI A.Ş.İKİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "BGY",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "IDG",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş. DÖRDÜNCÜ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "IJG",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş. JEC YENİLENEBİLİR ENERJİ ÖZEL GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "UCG",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş. SAMPAŞ HOLDİNG ÖZEL GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "SGF",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş. SOFAZ ÖZEL GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "IUG",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş. ÜÇÜNCÜ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "TAV",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş.AVİVASA EMEKLİLİK TEKNOLOJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AGN",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş.BİRİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "IKG",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş.İKİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "SHG",
+        "Adi": "AK PORTFÖY YÖNETİMİ A.Ş.SABANCI HOLDİNG ÖZEL GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AB1",
+        "Adi": "AKFEN GAYRİMENKUL PORTFÖY YÖNETİMİ A.Ş.BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AYV",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş 1 NOLU FLEETCORP KATILIM VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AVA",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 1 NOLU VARLIK FİNANSMANI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AGV",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 10 NOLU VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AGJ",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 11 NOLU EMEK VARLIK FİNANSMAN  FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AVI",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 2 NOLU EMEK VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFE",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 3 NOLU EMEK VARLIK FİNANSMAN  FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AJJ",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 3 NO'LU TURKCELL VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFR",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 4 NOLU EMEK VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AVV",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 7NO'LU EMEK VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AGZ",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 8 NO'LU EMEK VARLIK FİNANSMANI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AGU",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş. 9 NO'LU EMEK VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFG",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş.(6) NOLU EMEK VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "NVF",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş.12 NOLU VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AFM",
+        "Adi": "AKTİF YATIRIM BANKASI A.Ş.5 NOLU EMEK VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AG8",
+        "Adi": "ALBARAKA  PORTFÖY YÖNETİMİ A.Ş. BATIŞEHİR GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RBA",
+        "Adi": "ALBARAKA PORTFÖY ALTIN KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "VKR",
+        "Adi": "ALBARAKA PORTFÖY İKİNCİ KISA VADELİ KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RBK",
+        "Adi": "ALBARAKA PORTFÖY KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RBH",
+        "Adi": "ALBARAKA PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RBV",
+        "Adi": "ALBARAKA PORTFÖY KISA VADELİ KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RBT",
+        "Adi": "ALBARAKA PORTFÖY KİRA SERTİFİKALARI  KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "LXK",
+        "Adi": "ALBARAKA PORTFÖY YÖNETIMI A.Ş. KATıLıM ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OYK",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. ARSA KAPISI KATILIM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "PBV",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. BİLİŞİM VADİSİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AG9",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. CONTRA SAĞLIK VE TEKNOLOJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "FTC",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. DEĞER GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AG5",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. DÜKKAN GAYRIMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "OYE",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. EKSİM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "PFG",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. FİNTECH GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "OFG",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. FORM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "LXH",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OYR",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. KATILIM SİGORTA ŞİRKETLERİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AG7",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. METROPOL GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AG6",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. ONE TOWER GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "LXS",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "CTY",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş. START- UP GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PAG",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş.AKILLI ŞEHİRLER GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "OYZ",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş.BEREKET KATILIM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "PEG",
+        "Adi": "ALBARAKA PORTFÖY YÖNETİMİ A.Ş.İNOVASYON GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AZD",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. BİRİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AZK",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AZA",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AZY",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AZH",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AUG",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. İKİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AZM",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AZL",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AZS",
+        "Adi": "ALLIANZ HAYAT VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AMZ",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEZ",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. ATA FİNANS DİNAMİK DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ALZ",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ACV",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEU",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BIST TEMETTÜ ENDEKSİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AMG",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. BİRİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ALS",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ALU",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AUA",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. FON SEPETİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AMR",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI (ABD DOLARI 0-5 YIL VADELİ) EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ALR",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AMY",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KARMA GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FYY",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FYU",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AMF",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KOE",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KOÇ HOLDİNG EMEKLİ VAKFI BİRİNCİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ALI",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. KOÇ İŞTİRAK ENDEKSİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ALJ",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AIP",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AIE",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS BÜYÜME KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ANJ",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ANP",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KOS",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KOA",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AFJ",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "APG",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEN",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEC",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. UNİLEVER DENGELİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEP",
+        "Adi": "ALLIANZ YAŞAM VE EMEKLİLİK A.Ş. UNİLEVER DİNAMİK DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AHL",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEA",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH0",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ABE",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. B.R.I.C. ÜLKELER YABANCI DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AO1",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AO2",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH6",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BİRİNCİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH3",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BİRİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HS1",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AG2",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH9",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH5",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AG3",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. HİSSE SENEDİ GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH1",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İKİNCİ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AG1",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İKİNCİ BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AHB",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İKİNCİ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH4",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İKİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ATE",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. İŞ BANKASI İŞTİRAK ENDEKSİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AER",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AGE",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AET",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJA",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJG",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJB",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJH",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJC",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AFP",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AFH",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJF",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AHC",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. ÖZEL SEKTÖR BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH2",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ATK",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BHS",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. SÜRDÜRÜLEBİLİRLİK  HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BHT",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AH8",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AG4",
+        "Adi": "ANADOLU HAYAT EMEKLİLİK A.Ş. TEMKİNLİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AR6",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. ALTINCI GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AZ7",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. BEŞİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AR1",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. BEŞİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AZ1",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AIV",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AZ6",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. DÖRDÜNCÜ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AZ9",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. DÖRDÜNCÜ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AZ2",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. İKİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AZ4",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. İKİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AZ8",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. TEKNOGİRİŞİM GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "AZ3",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. ÜÇÜNCÜ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AZ5",
+        "Adi": "ARZ GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. ÜÇÜNCÜ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MBX",
+        "Adi": "ASHMORE PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MDX",
+        "Adi": "ASHMORE PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MHX",
+        "Adi": "ASHMORE PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TLZ",
+        "Adi": "ATA PORTFÖY ANALİZ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AED",
+        "Adi": "ATA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AYA",
+        "Adi": "ATA PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AAK",
+        "Adi": "ATA PORTFÖY ÇOKLU VARLIK DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AAV",
+        "Adi": "ATA PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AUT",
+        "Adi": "ATA PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AAL",
+        "Adi": "ATA PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AXT",
+        "Adi": "ATA PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AXD",
+        "Adi": "ATA PORTFÖY YÖNETİMİ A.Ş.DEĞIŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AXU",
+        "Adi": "ATA PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AXY",
+        "Adi": "ATA PORTFÖY YÖNETİMİ A.Ş.PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AXZ",
+        "Adi": "ATA PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AHI",
+        "Adi": "ATLAS PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AHU",
+        "Adi": "ATLAS PORTFÖY BİRİNCİ ÖZEL SEKTÖR BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZVE",
+        "Adi": "ATLAS PORTFÖY YÖNETİMİ A.Ş. A&AK GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AUX",
+        "Adi": "ATLAS PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GJS",
+        "Adi": "ATLAS PORTFÖY YÖNETİMİ A.Ş. SAĞLAM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AXS",
+        "Adi": "ATLAS PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ATX",
+        "Adi": "ATLAS PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI  ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZVD",
+        "Adi": "ATLAS PORTFÖY YÖNETİMİ A.Ş.ESTA GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AVX",
+        "Adi": "ATLAS PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IYB",
+        "Adi": "AURA PORTFÖY DEĞİŞKEN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TLH",
+        "Adi": "AURA PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TPV",
+        "Adi": "AURA PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TLE",
+        "Adi": "AURA PORTFÖY YABANCI BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TXC",
+        "Adi": "AURA PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXE",
+        "Adi": "AURA PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXA",
+        "Adi": "AURA PORTFÖY YÖNETİMİ A.Ş.DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "UKA",
+        "Adi": "AURA PORTFÖY YÖNETİMİ A.Ş.KONUT ALFA KATILIM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "AVE",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEL",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AHJ",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVJ",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVH",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. BIST TEMETTÜ 25 ENDEKSİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AE4",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. BİRİNCİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MZN",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. BİRİNCİ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AE1",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. BİRİNCİ PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AE2",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEK",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVP",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVG",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AE3",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEH",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEB",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVU",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. İKİNCİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MZL",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. İKİNCİ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVL",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. İKİNCİ PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVB",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI (ABD DOLARI 5-15 YIL VADELİ) EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVD",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVY",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. KARMA GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FYL",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FYN",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEI",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AEG",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VVA",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VVZ",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VVE",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VVD",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VVU",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AYJ",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VVM",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. OKS MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AAJ",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVK",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. ORTA VADELİ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVO",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. ÖZEL SEKTÖR BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVN",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AVR",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. TEKNOLOJİ SEKTÖRÜ YABANCI DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MZP",
+        "Adi": "AVİVASA EMEKLİLİK VE HAYAT A.Ş. ÜÇÜNCÜ FON SEPETİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEA",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEL",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEG",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEB",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HES",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HED",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEE",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HER",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HET",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJR",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJZ",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJP",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJY",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJV",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEI",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEC",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AJT",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEP",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEK",
+        "Adi": "AXA HAYAT VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GLS",
+        "Adi": "AZİMUT PORTFÖY  KİRA SERTİFİKALARI (SUKUK) KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PPZ",
+        "Adi": "AZİMUT PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GXB",
+        "Adi": "AZİMUT PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXD",
+        "Adi": "AZİMUT PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXF",
+        "Adi": "AZİMUT PORTFÖY YÖNETİMİ A.Ş. FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXH",
+        "Adi": "AZİMUT PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXK",
+        "Adi": "AZİMUT PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXT",
+        "Adi": "AZİMUT PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZPS",
+        "Adi": "AZİMUT PORTFÖY YÖNETİMİ A.Ş. SİNEMA TV GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "GXS",
+        "Adi": "AZİMUT PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GTF",
+        "Adi": "AZİMUT PYŞ BİRİNCİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GL1",
+        "Adi": "AZİMUT PYŞ BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GMA",
+        "Adi": "AZİMUT PYŞ ÇOKLU VARLIK DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GSP",
+        "Adi": "AZİMUT PYŞ KAR PAYI ÖDEYEN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GBL",
+        "Adi": "AZİMUT PYŞ KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GBC",
+        "Adi": "AZİMUT PYŞ YABANCI BYF FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "AGA",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "TKV",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AGB",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. BÜYÜME KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AGG",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KATILIM DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AGH",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AGT",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AGD",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "AGM",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. MUHAFAZAKAR KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BEO",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BEF",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BEI",
+        "Adi": "BEREKET EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BNA",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "PRS",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "PRC",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPU",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BİRİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPL",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BİRİNCİ PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPG",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPF",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPE",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPH",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPK",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. İKİNCİ KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPC",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BNK",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BNB",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPI",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPS",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPJ",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPN",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPO",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BNZ",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BPR",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BNL",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BNS",
+        "Adi": "BNP PARİBAS CARDİF EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BHX",
+        "Adi": "BURGAN PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "BPX",
+        "Adi": "BURGAN PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "BBX",
+        "Adi": "BURGAN PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "BMX",
+        "Adi": "BURGAN PORTFÖY YÖNETİMİ A.Ş.KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "BSX",
+        "Adi": "BURGAN PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "CFA",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CFB",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CFY",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHH",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. BİRİNCİ HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CFC",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHN",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CGE",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CFD",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHM",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHK",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. KAMU BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CGG",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. KAMU BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CFK",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHT",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHG",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHD",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHO",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHA",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHI",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CFE",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHC",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. OKS MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHU",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHL",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "CHS",
+        "Adi": "CİGNA SAĞLIK HAYAT VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "DB1",
+        "Adi": "DBZ FONUNA BAĞLı YAN HESAP (TRSBMKS12230)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DBA",
+        "Adi": "DENİZ PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DZE",
+        "Adi": "DENİZ PORTFÖY BIST 100 ENDEKSİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DBP",
+        "Adi": "DENİZ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DSP",
+        "Adi": "DENİZ PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DPT",
+        "Adi": "DENİZ PORTFÖY BİST TEMETTÜ 25 ENDEKSİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DBH",
+        "Adi": "DENİZ PORTFÖY EUROBOND (DÖVİZ) BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DAH",
+        "Adi": "DENİZ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DBK",
+        "Adi": "DENİZ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DPK",
+        "Adi": "DENİZ PORTFÖY KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DBB",
+        "Adi": "DENİZ PORTFÖY ORTA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DBZ",
+        "Adi": "DENİZ PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DFM",
+        "Adi": "DENİZ PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARINA YATIRIM YAPAN %100 ANAPARA KORUMA AMAÇLI İKİNCİ FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DLY",
+        "Adi": "DENİZ PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DZT",
+        "Adi": "DENİZ PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DBX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DDX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DFX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş. FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DHX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DKX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DMX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DOX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş. KORUMA AMAÇLI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DPX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DVG",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş.DENİZ VENTURES GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "DRX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş.KARMA ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "DSX",
+        "Adi": "DENİZ PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EAD",
+        "Adi": "EGE GİYİM SANAYİCİLERİ SİGORTA A.Ş. A TİPİ DEĞİŞKEN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ENX",
+        "Adi": "EGELİ&CO PORTFÖY YÖNETİM A.Ş. FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EDF",
+        "Adi": "EGS  YATIRIM MENKUL DEĞERLER A.Ş. (A) TİPİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EAF",
+        "Adi": "EGS YAT (A)KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EFO",
+        "Adi": "EGS YATIRIM MENKUL DEĞERLER A.Ş. A TİPİ EGS FİNANS GRUBU DEĞİŞKEN ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EEF",
+        "Adi": "EGS YATIRIM MENKUL DEĞERLER A.Ş. A TİPİ İMKB ULUSAL 50 ENDEKS FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EGK",
+        "Adi": "EGSBANK (A) KARMA FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EGD",
+        "Adi": "EGSBANK (B) DEGISKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GRA",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "EIE",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FEA",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. ATLAS PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIE",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIY",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "EIG",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BGK",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FER",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BEE",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BGE",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "EIK",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BEK",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. FİBA PORTFÖY BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FJG",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. GALATASARAY RE-PIE PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BEH",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BBH",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIF",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. İSTANBUL PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FEO",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. İSTANBUL PORTFÖY DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "BKB",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIK",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. KARE PORTFÖY FON SEPETİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FII",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIS",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FEI",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIM",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. MÜKAFAT PORTFÖY KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIC",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIU",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIH",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIV",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIG",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FGH",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIZ",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OKS MUHAFAZAKAR DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FGF",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIR",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OSMANLI PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "EHG",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OYAK PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "EIH",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OYAK PORTFÖY HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "EIF",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OYAK PORTFÖY KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "EST",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. OYAK PORTFÖY STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FET",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FEZ",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. PERFORM PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FEN",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FEF",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. TACİRLER PORTFÖY DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FES",
+        "Adi": "FİBA EMEKLİLİK VE HAYAT A.Ş. TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "FIB",
+        "Adi": "FİBA PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FIT",
+        "Adi": "FİBA PORTFÖY BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FCV",
+        "Adi": "FİBA PORTFÖY ÇOKLU VARLIK BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FID",
+        "Adi": "FİBA PORTFÖY ÇOKLU VARLIK İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FPE",
+        "Adi": "FİBA PORTFÖY EUROBOND BORÇLANMA ARAÇLARI (DÖVİZ)FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FPH",
+        "Adi": "FİBA PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FPK",
+        "Adi": "FİBA PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FIL",
+        "Adi": "FİBA PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SKT",
+        "Adi": "FİBA PORTFÖY ŞEKERBANK KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SLF",
+        "Adi": "FİBA PORTFÖY ŞEKERBANK PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FFD",
+        "Adi": "FİBA PORTFÖY ÜÇÜNCÜ PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FBX",
+        "Adi": "FİBA PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FDX",
+        "Adi": "FİBA PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FHX",
+        "Adi": "FİBA PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FMX",
+        "Adi": "FİBA PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FPX",
+        "Adi": "FİBA PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FSX",
+        "Adi": "FİBA PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FRG",
+        "Adi": "FİBA PORTFÖY YÖNETİMİ A.Ş.RE-PIE GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "FXO",
+        "Adi": "FİNANS PORTFÖY YÖNETİMİ A.Ş. KORUMA AMAÇLI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FY1",
+        "Adi": "FYO FONUNA BAĞLI YAN HESAP (TRSAKYP41612)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GUH",
+        "Adi": "GARANTI PORTFÖY YABANCI TEKNOLOJİ BYF FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GPX",
+        "Adi": "GARANTI PORTFÖY YÖNETİMİ A.Ş.PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GUA",
+        "Adi": "GARANTİ  PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GHA",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GCV",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GDV",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GEK",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHF",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GEU",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHG",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHK",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DIŞ BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHE",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GEF",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. DİNAMİK DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GEH",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GEG",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GKB",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KAMU BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GEA",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHL",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GES",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHI",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHT",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHJ",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHU",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHN",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHV",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHM",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHY",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GCK",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GCS",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHP",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHZ",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. OKS TEMKİNLİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GEL",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHD",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHH",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GED",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GHO",
+        "Adi": "GARANTİ EMEKLİLİK VE HAYAT A.Ş. ÜÇÜNCÜ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "GA1",
+        "Adi": "GARANTİ PORTFÖY  BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GRX",
+        "Adi": "GARANTİ PORTFÖY  YÖNETİMİ A.Ş. KARMA ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GSX",
+        "Adi": "GARANTİ PORTFÖY  YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TGA",
+        "Adi": "GARANTİ PORTFÖY AGRESİF DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GTA",
+        "Adi": "GARANTİ PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GOH",
+        "Adi": "GARANTİ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GPB",
+        "Adi": "GARANTİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZP",
+        "Adi": "GARANTİ PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GPF",
+        "Adi": "GARANTİ PORTFÖY BİRİNCİ KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GTL",
+        "Adi": "GARANTİ PORTFÖY BİRİNCİ PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GDL",
+        "Adi": "GARANTİ PORTFÖY BİRİNCİ PARA PİYASASI ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GAE",
+        "Adi": "GARANTİ PORTFÖY BİST30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZV",
+        "Adi": "GARANTİ PORTFÖY ESG SÜRDÜRÜLEBİLİRLİK FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GPA",
+        "Adi": "GARANTİ PORTFÖY EUROBOND BORÇLANMA ARAÇLARI (DÖVİZ) FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZZ",
+        "Adi": "GARANTİ PORTFÖY FİNANS SEKTÖRÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GTZ",
+        "Adi": "GARANTİ PORTFÖY GÜMÜŞ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GHS",
+        "Adi": "GARANTİ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "INH",
+        "Adi": "GARANTİ PORTFÖY ING BANK ÖZEL BANKACILIK VE PLATİNUM DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GPI",
+        "Adi": "GARANTİ PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZJ",
+        "Adi": "GARANTİ PORTFÖY İKİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GAL",
+        "Adi": "GARANTİ PORTFÖY İKİNCİ PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GLZ",
+        "Adi": "GARANTİ PORTFÖY İKİNCİ PARA PİYASASI ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TGT",
+        "Adi": "GARANTİ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GAH",
+        "Adi": "GARANTİ PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GUE",
+        "Adi": "GARANTİ PORTFÖY ÖPY PARA PİYASASI ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZG",
+        "Adi": "GARANTİ PORTFÖY SAĞLIK SEKTÖRÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZR",
+        "Adi": "GARANTİ PORTFÖY SÜRDÜRÜLEBİLİRLİK HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZL",
+        "Adi": "GARANTİ PORTFÖY TARIM VE GIDA SEKTÖRÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZH",
+        "Adi": "GARANTİ PORTFÖY TEMİZ ENERJİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GZY",
+        "Adi": "GARANTİ PORTFÖY TURİZM VE SEYAHAT SEKTÖRÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GPU",
+        "Adi": "GARANTİ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GPZ",
+        "Adi": "GARANTİ PORTFÖY ÜÇÜNCÜ PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GKL",
+        "Adi": "GARANTİ PORTFÖY YF HİSSE SENEDİ SERBEST ÖZEL FON (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GDX",
+        "Adi": "GARANTİ PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GFX",
+        "Adi": "GARANTİ PORTFÖY YÖNETİMİ A.Ş. FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GKX",
+        "Adi": "GARANTİ PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GMX",
+        "Adi": "GARANTİ PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GBX",
+        "Adi": "GARANTİ PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GHX",
+        "Adi": "GARANTİ PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ECA",
+        "Adi": "GLOBAL MD PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EC2",
+        "Adi": "GLOBAL MD PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EBD",
+        "Adi": "GLOBAL MD PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GKF",
+        "Adi": "GLOBAL MD PORTFÖY KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ECV",
+        "Adi": "GLOBAL MD PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ECT",
+        "Adi": "GLOBAL MD PORTFÖY ORTA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ECB",
+        "Adi": "GLOBAL MD PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ECS",
+        "Adi": "GLOBAL MD PORTFÖY YÖNETİMİ A.Ş. ACALİS BİRİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "EXB",
+        "Adi": "GLOBAL MD PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EXD",
+        "Adi": "GLOBAL MD PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EXH",
+        "Adi": "GLOBAL MD PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EXK",
+        "Adi": "GLOBAL MD PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EXP",
+        "Adi": "GLOBAL MD PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EXS",
+        "Adi": "GLOBAL MD PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ECF",
+        "Adi": "GLOBAL MD PORTFÖY YÖNETİMİ A.Ş. TURK HOLDİNG GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "HJB",
+        "Adi": "HEDEF PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "NNF",
+        "Adi": "HEDEF PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HMK",
+        "Adi": "HEDEF PORTFÖY EGE HİSSE SENEDİ SERBEST FON(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HMR",
+        "Adi": "HEDEF PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HYV",
+        "Adi": "HEDEF PORTFÖY PARA PIYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HBG",
+        "Adi": "HEDEF PORTFÖY YÖNETİMİ A.Ş. BİRİKİM GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "HZX",
+        "Adi": "HEDEF PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HDG",
+        "Adi": "HEDEF PORTFÖY YÖNETİMİ A.Ş. DEĞER GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "HYX",
+        "Adi": "HEDEF PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HVX",
+        "Adi": "HEDEF PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HSX",
+        "Adi": "HEDEF PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HTX",
+        "Adi": "HEDEF PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HBF",
+        "Adi": "HSBC PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HBU",
+        "Adi": "HSBC PORTFÖY BİST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HPO",
+        "Adi": "HSBC PORTFÖY ÇOKLU VARLIK BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HPD",
+        "Adi": "HSBC PORTFÖY ÇOKLU VARLIK İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HOA",
+        "Adi": "HSBC PORTFÖY ÇOKLU VARLIK ÜÇÜNCÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HSA",
+        "Adi": "HSBC PORTFÖY DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HVS",
+        "Adi": "HSBC PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HPT",
+        "Adi": "HSBC PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HST",
+        "Adi": "HSBC PORTFÖY ORTA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HSL",
+        "Adi": "HSBC PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HTT",
+        "Adi": "HSBC PORTFÖY UZUN VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HOY",
+        "Adi": "HSBC PORTFÖY YABANCI BYF FON SEPETI",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HXB",
+        "Adi": "HSBC PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HXD",
+        "Adi": "HSBC PORTFÖY YÖNETİMİ A.Ş. DEĞIŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HXF",
+        "Adi": "HSBC PORTFÖY YÖNETİMİ A.Ş. FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HXH",
+        "Adi": "HSBC PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HXM",
+        "Adi": "HSBC PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HXP",
+        "Adi": "HSBC PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HXE",
+        "Adi": "HSBC PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IUX",
+        "Adi": "ICBC PORTFÖY YÖNETİM A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ICE",
+        "Adi": "ICBC TURKEY PORTFOY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ICA",
+        "Adi": "ICBC TURKEY PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ICD",
+        "Adi": "ICBC TURKEY PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IJH",
+        "Adi": "ICBC TURKEY PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ICF",
+        "Adi": "ICBC TURKEY PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ICC",
+        "Adi": "ICBC TURKEY PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FFX",
+        "Adi": "ICBC TURKEY PORTFÖY YÖNETİM A.Ş. FON SEPETİ  ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IAX",
+        "Adi": "ICBC TURKEY PORTFÖY YÖNETİM A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IXS",
+        "Adi": "ICBC TURKEY PORTFÖY YÖNETİM A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ICX",
+        "Adi": "ICBC TURKEY PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IYX",
+        "Adi": "ICBC TURKEY PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "LOB",
+        "Adi": "ILG FONUNA BAĞLI YAN HESAP (TRSBISE32221)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "NXB",
+        "Adi": "ING PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NXD",
+        "Adi": "ING PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NXH",
+        "Adi": "ING PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NXM",
+        "Adi": "ING PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NXP",
+        "Adi": "ING PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GGK",
+        "Adi": "INVEO PORTFÖY  ALTIN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GXI",
+        "Adi": "INVEO PORTFÖY  YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IJA",
+        "Adi": "INVEO PORTFÖY ATAK DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GPG",
+        "Adi": "INVEO PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GJB",
+        "Adi": "INVEO PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GAF",
+        "Adi": "INVEO PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GYK",
+        "Adi": "INVEO PORTFÖY BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GBG",
+        "Adi": "INVEO PORTFÖY G-20 ÜLKELERİ YABANCI HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GMR",
+        "Adi": "INVEO PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GAK",
+        "Adi": "INVEO PORTFÖY KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "GYL",
+        "Adi": "INVEO PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "BIE",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAMİNG VE E-SPORTS GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "BVG",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş. BOĞAZİÇİ VENTURES GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "BEG",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş. EKSİM VENTURES GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "LYC",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş. LYCİAN CAPİTAL GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "GTX",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXL",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXA",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş.DEĞİŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXJ",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş.FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXC",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXG",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş.KARMA ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "GXE",
+        "Adi": "INVEO PORTFÖY YÖNETİMİ A.Ş.PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IRK",
+        "Adi": "INVESTRADE PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PDX",
+        "Adi": "ISTANBUL PORTFÖY YÖNETIMI A.Ş.DEĞIŞKEN ŞEMSIYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IPB",
+        "Adi": "İSTANBUL PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IJV",
+        "Adi": "İSTANBUL PORTFÖY BİRİNCİ PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IGI",
+        "Adi": "İSTANBUL PORTFÖY BOSPHORİST GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "ACC",
+        "Adi": "İSTANBUL PORTFÖY DÖRDÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ACK",
+        "Adi": "İSTANBUL PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ACD",
+        "Adi": "İSTANBUL PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IST",
+        "Adi": "İSTANBUL PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YCY",
+        "Adi": "İSTANBUL PORTFÖY KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IIH",
+        "Adi": "İSTANBUL PORTFÖY ÜÇÜNCÜ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ARE",
+        "Adi": "İSTANBUL PORTFÖY YABANCI (GELİŞMEKTE OLAN PİYASALAR) BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PYG",
+        "Adi": "İSTANBUL PORTFÖY YÖNETIMI A.Ş. GREENONE YENILENEBILIR ENERJI GIRIŞIM SERMAYESI YATıRıM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "ACG",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. ACTUS GAZİANTEP PPP ENTEGRE SAĞLIK KAMPÜSÜ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PBX",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ITF",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. DİJİTAL TEKNOLOJİ GİRİŞİM SERMAYESİ YATIRIM FON",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PHX",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "PYV",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. İKİNCİ LOGO VENTURES GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PTX",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ITH",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. ONE LİFE VENTURES GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PRE",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. PRE-IPO GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PSX",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FZS",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. TARIM HAYVANCILIK VE TEKNOLOJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PYT",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. TECHONE GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PTV",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş. TWOZERO VENTURES GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "ACF",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş.LOGO VENTURES GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "PPX",
+        "Adi": "İSTANBUL PORTFÖY YÖNETİMİ A.Ş.PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IYG",
+        "Adi": "İŞ PORTFÖY A.Ş.YENİLENEBİLİR ENERJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "TTA",
+        "Adi": "İŞ PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IBD",
+        "Adi": "İŞ PORTFÖY BAYRAKTARLAR HOLDİNG DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IDH",
+        "Adi": "İŞ PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TIE",
+        "Adi": "İŞ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TI4",
+        "Adi": "İŞ PORTFÖY BİRİNCİ DEĞIŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ILZ",
+        "Adi": "İŞ PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TAU",
+        "Adi": "İŞ PORTFÖY BİST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TTE",
+        "Adi": "İŞ PORTFÖY BİST TEKNOLOJİ AĞIRLIKLI SINIRLAMALI ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IJP",
+        "Adi": "İŞ PORTFÖY BLOCKCHAİN TEKNOLOJİLERİ KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IJB",
+        "Adi": "İŞ PORTFÖY DİJİTAL OYUN SEKTÖRÜ KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IPJ",
+        "Adi": "İŞ PORTFÖY ELEKTRİKLİ ARAÇLAR KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TGE",
+        "Adi": "İŞ PORTFÖY EMTIA YABANCI BYF FON SEPETI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IPV",
+        "Adi": "İŞ PORTFÖY EUROBOND BORÇLANMA ARAÇLARI (DÖVİZ) FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TI2",
+        "Adi": "İŞ PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TI7",
+        "Adi": "İŞ PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TI3",
+        "Adi": "İŞ PORTFÖY İŞ BANKASI İŞTİRAKLERİ ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IHK",
+        "Adi": "İŞ PORTFÖY İŞ'TE KADIN HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TIV",
+        "Adi": "İŞ PORTFÖY KISA VADELI BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IAT",
+        "Adi": "İŞ PORTFÖY KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TKK",
+        "Adi": "İŞ PORTFÖY KUMBARA HESABI KARMA ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TSI",
+        "Adi": "İŞ PORTFÖY MAKSİMUM HESAP KISA VADELI BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IBK",
+        "Adi": "İŞ PORTFÖY MAXIMUM KART KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KKH",
+        "Adi": "İŞ PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IOP",
+        "Adi": "İŞ PORTFÖY ODEABANK PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TI6",
+        "Adi": "İŞ PORTFÖY ORTA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TBV",
+        "Adi": "İŞ PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TI1",
+        "Adi": "İŞ PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TBP",
+        "Adi": "İŞ PORTFÖY PRIVIA BANKACILIK DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TPE",
+        "Adi": "İŞ PORTFÖY PY EUROBOND BORÇLANMA ARAÇLARI (DÖVİZ) ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TPR",
+        "Adi": "İŞ PORTFÖY PY HİSSE SENEDİ ÖZEL FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TPO",
+        "Adi": "İŞ PORTFÖY PY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YAR",
+        "Adi": "İŞ PORTFÖY RESAN DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IKL",
+        "Adi": "İŞ PORTFÖY SAĞLIK ŞİRKETLERİ KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IJZ",
+        "Adi": "İŞ PORTFÖY SİBER GÜVENLİK TEKNOLOJİLERİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ITP",
+        "Adi": "İŞ PORTFÖY TEKNOLOJİ KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TMC",
+        "Adi": "İŞ PORTFÖY TEMA  DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IBB",
+        "Adi": "İŞ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TDG",
+        "Adi": "İŞ PORTFÖY YABANCI BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TMG",
+        "Adi": "İŞ PORTFÖY YABANCI HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IJC",
+        "Adi": "İŞ PORTFÖY YARI İLETKEN TEKNOLOJİLERİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IKP",
+        "Adi": "İŞ PORTFÖY YENİLENEBİLİR ENERJİ KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IPX",
+        "Adi": "İŞ PORTFÖY YÖNETIMI A.Ş. PARA PIYASASI SEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IAG",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. ALTYAPI GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "ISZ",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "IBX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IDX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IFX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IHX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IIG",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. İKİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "IRX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. KARMA ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IKX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ILX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ITX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. KORUMA AMAÇLI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IIK",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. QUASAR İSTANBUL KONUT KATILIM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "ITG",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. QUASAR İSTANBUL TİCARİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "ISX",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "IIY",
+        "Adi": "İŞ PORTFÖY YÖNETİMİ A.Ş.QUASAR İSTANBUL KONUT GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "KL2",
+        "Adi": "KALENDER GAYRİMENKUL PORTFÖY YÖNETİMİ A.Ş. KONUTFON GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "KL1",
+        "Adi": "KALENDER GAYRİMENKUL PORTFÖY YÖNETİMİ A.Ş. TRAKYA GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "KGI",
+        "Adi": "KALKINMA GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş.KALKINMA KATILIM GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KGK",
+        "Adi": "KALKINMA GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş.YENİLİKÇİ VE İLERİ TEKNOLOJİLER KATILIM GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KRC",
+        "Adi": "KARE PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KRF",
+        "Adi": "KARE PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KUB",
+        "Adi": "KARE PORTFÖY DEĞİŞKEN  (DÖVİZ) FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KYA",
+        "Adi": "KARE PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KCX",
+        "Adi": "KARE PORTFÖY YÖNETIMI A.Ş. HISSE SENEDI ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "KBX",
+        "Adi": "KARE PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "KDX",
+        "Adi": "KARE PORTFÖY YÖNETİMİ A.Ş.DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "KFX",
+        "Adi": "KARE PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "KES",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. AGRESİF KATILIM DEĞİŞKEN (DÖVİZ) EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KEF",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KEY",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KEG",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. DENGELİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KED",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. EMLAK KATILIM BANKASI KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KKS",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KAMU KİRA SERTİFİKALARI KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KEK",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KEH",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KEA",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KEB",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KJM",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. KIYMETLİ MADENLER KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KEZ",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KET",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KTZ",
+        "Adi": "KATILIM EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "KGB",
+        "Adi": "KIZILAY GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "KBG",
+        "Adi": "KIZILAY GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KBI",
+        "Adi": "KIZILAY GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. BİYOTEKNOLOJİ VE SAĞLIK GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KCG",
+        "Adi": "KIZILAY GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. İKİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KYK",
+        "Adi": "KÖRFEZ YATIRIM A-TIPI KARMA FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KTM",
+        "Adi": "KT PORTFÖY BİRİNCİ KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KPC",
+        "Adi": "KT PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KTV",
+        "Adi": "KT PORTFÖY KISA VADELİ KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KZL",
+        "Adi": "KT PORTFÖY KIZILAY'A DESTEK ALTIN KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KTN",
+        "Adi": "KT PORTFÖY KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KLU",
+        "Adi": "KT PORTFÖY PARA PİYASASI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZAY",
+        "Adi": "KT PORTFÖY SEPET HESAP PARA PİYASASI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KTO",
+        "Adi": "KT PORTFÖY YÖNETİMİ A.Ş. GREEN POWER ENERJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KXH",
+        "Adi": "KT PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "KXK",
+        "Adi": "KT PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "KKG",
+        "Adi": "KT PORTFÖY YÖNETİMİ A.Ş. KOBİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KLG",
+        "Adi": "KT PORTFÖY YÖNETİMİ A.Ş. LONCA GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KMG",
+        "Adi": "KT PORTFÖY YÖNETİMİ A.Ş. MİRAJ ENERJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "KXS",
+        "Adi": "KT PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "KTY",
+        "Adi": "KT PORTFÖY YÖNETİMİ A.Ş. TEKNOGİRİŞİM GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "LDG",
+        "Adi": "LETVEN CAPİTAL GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. DİJİTAL TEKNOLOJİLER GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "LTG",
+        "Adi": "LETVEN CAPİTAL GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. TARS GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "LBX",
+        "Adi": "LOGOS PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "LSX",
+        "Adi": "LOGOS PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "LHX",
+        "Adi": "LOGOS PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MSX",
+        "Adi": "MAGNA CAPİTAL PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MPC",
+        "Adi": "MAQASID GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. İMAR GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "MYI",
+        "Adi": "MAQASİD GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş.FONBULUCU GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MSS",
+        "Adi": "MAQASİD GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş.KATILIM SİGORTACILIĞI SEKTÖRÜ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MXK",
+        "Adi": "MAQASİD PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MXB",
+        "Adi": "MAQASİD PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MPB",
+        "Adi": "MAQASİD PORTFÖY YÖNETİMİ A.Ş.YENİLENEBİLİR ENERJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MYT",
+        "Adi": "MAQASİD PORTFÖY YÖNETİMİ A.Ş.YENİLİKÇİ TEKNOLOJİLER GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MMA",
+        "Adi": "MAQASİD PYŞ ALTIN KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MAC",
+        "Adi": "MARMARA CAPITAL PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MXT",
+        "Adi": "MARMARA CAPİTAL PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MXH",
+        "Adi": "MARMARA CAPİTAL PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MGS",
+        "Adi": "MAXIS GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. YENİLİKÇİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MGR",
+        "Adi": "MAXİS GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. ATLAS BÜYÜME SERMAYESİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MAE",
+        "Adi": "MAXİS GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. E-TİCARET GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MAI",
+        "Adi": "MAXİS GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. TEMİZ ENERJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MAD",
+        "Adi": "MEKSA PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MBL",
+        "Adi": "MEKSA PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MXD",
+        "Adi": "MEKSA PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MXS",
+        "Adi": "MEKSA PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MEA",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHB",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHC",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHG",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHE",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHY",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. DENGELİ DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHH",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHD",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. KAMU DIŞ BORÇLANMA ARAÇLARI (ABD DOLARI 0-5 YIL VADELİ) EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHA",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHS",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHT",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHR",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHV",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHO",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHU",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHN",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHI",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHZ",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHM",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHL",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MHK",
+        "Adi": "METLİFE EMEKLİLİK VE HAYAT A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "MKG",
+        "Adi": "MÜKAFAT PORTFÖY ALTIN KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MMH",
+        "Adi": "MÜKAFAT PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MJB",
+        "Adi": "MÜKAFAT PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MJG",
+        "Adi": "MÜKAFAT PORTFÖY GÜMÜŞ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MPS",
+        "Adi": "MÜKAFAT PORTFÖY KATILIM HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON )",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MPF",
+        "Adi": "MÜKAFAT PORTFÖY KISA VADELİ KİRA SERTİFİKASI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MPK",
+        "Adi": "MÜKAFAT PORTFÖY KİRA SERTİFİKASI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IDL",
+        "Adi": "MÜKAFAT PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "MPG",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. ATAŞEHİR METROPOL GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "MBG",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ AKARYAKIT SEKTÖRÜ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "MGA",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "MPT",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ KARMA  GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MBB",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. BUKET GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MXU",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. FON  SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MPX",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "KXM",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MKX",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MXR",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "MBK",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. TECHİNVESTORS GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MYP",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş. YAPRAK YENİLENEBİLİR ENERJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "MXP",
+        "Adi": "MÜKAFAT PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NZH",
+        "Adi": "NEO PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "NZT",
+        "Adi": "NEO PORTFÖY PY ORTA VADELİ BORÇLANMA ARAÇLARI  ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "NG6",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. ALTINCI GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NG5",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. BEŞİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "VVF",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NPA",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ NUROL GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "NPE",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ YENİLENEBİLİR GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "NBX",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NG4",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. DÖRDÜNCÜ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NPD",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. DÖRDÜNCÜ NUROL  GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "NG2",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. İKİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NPB",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. İKİNCİ NUROL  GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "VVG",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. NEXT PROPTECH GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "NSX",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NG3",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. ÜÇÜNCÜ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NPC",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. ÜÇÜNCÜ NUROL  GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "NPF",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. YAŞAM TEKNOLOJİLERİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "NG7",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş. YEDİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NPG",
+        "Adi": "NEO PORTFÖY YÖNETİMİ A.Ş.TEKSTİL SANAYİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "NHN",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHA",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. ALTIN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHB",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHK",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IEG",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IEA",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IEE",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IEF",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IEH",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IEK",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. KARMA EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NNK",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IGE",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHG",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHC",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHI",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHL",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHH",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. OKS DİNAMİK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHR",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHO",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHF",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IER",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NHM",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. QINVEST PORTFÖY TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "IEB",
+        "Adi": "NN HAYAT VE EMEKLİLİK A.Ş. STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "NU1",
+        "Adi": "NUROL MENKUL KIYMETLER A.Ş. (A) TİPİ DEĞİŞKEN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "NBD",
+        "Adi": "NUROL MENKUL KIYMETLER A.Ş. (B) TİPİ DEĞİŞKEN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PPN",
+        "Adi": "NUROL PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "NUA",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. AŞİYAN GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NUC",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. CHARM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NUE",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. EGÇ KONUT GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NUF",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. FC KARMA GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NUK",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. KİPAGO KONUT GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NMC",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. M CHARM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NUT",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. NUROL TOWER GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "OCH",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. OC HEDEF GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "NPX",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NUZ",
+        "Adi": "NUROL PORTFÖY YÖNETİMİ A.Ş. Z REZİDANS GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "OAG",
+        "Adi": "OMURGA GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. ADDRESS GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "OG3",
+        "Adi": "OMURGA GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş. TEKNOLOJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "OGI",
+        "Adi": "OMURGA GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş.İKİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "OG2",
+        "Adi": "OMURGA GAYRİMENKUL VE GİRİŞİM SERMAYESİ PORTFÖY YÖNETİMİ A.Ş.UFUK KARMA GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "ORX",
+        "Adi": "ORAGON GAYRİMENKUL PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "OPB",
+        "Adi": "OSMANLI PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OPH",
+        "Adi": "OSMANLI PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OPL",
+        "Adi": "OSMANLI PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OPI",
+        "Adi": "OSMANLI PORTFÖY İKİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OSL",
+        "Adi": "OSMANLI PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OSD",
+        "Adi": "OSMANLI PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OXD",
+        "Adi": "OSMANLI PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OXS",
+        "Adi": "OSMANLI PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OXB",
+        "Adi": "OSMANLI PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OXH",
+        "Adi": "OSMANLI PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OXT",
+        "Adi": "OYAK PORTFÖY  YÖNETIMI A.Ş. FON SEPETI ŞEMSIYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OGD",
+        "Adi": "OYAK PORTFÖY ALTIN KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OKT",
+        "Adi": "OYAK PORTFÖY BİRİNCİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OKD",
+        "Adi": "OYAK PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OFS",
+        "Adi": "OYAK PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OHB",
+        "Adi": "OYAK PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OKP",
+        "Adi": "OYAK PORTFÖY BİRİNCİ KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OYL",
+        "Adi": "OYAK PORTFÖY BİRİNCİ PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OBP",
+        "Adi": "OYAK PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OTF",
+        "Adi": "OYAK PORTFÖY KISA VADELİ KİRA SERTİFİKASI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OGF",
+        "Adi": "OYAK PORTFÖY OYAK ÜYELERI İLE ÇALIŞANLARıNA YÖNELİK BORÇLANMA ARAÇLARI ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OGT",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş İKİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "OJG",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş. BEŞİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "OGM",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "OGR",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "OBX",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OGO",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş. DÖRDÜNCÜ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "OHX",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OKX",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OGB",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş. ÜÇÜNCÜ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "ODX",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş.DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OPX",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş.PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "OSX",
+        "Adi": "OYAK PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "PXB",
+        "Adi": "PERFORM PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "PXS",
+        "Adi": "PERFORM PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "PJL",
+        "Adi": "PHİLLİP PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PEX",
+        "Adi": "PHİLLİP PORTFÖY YÖNETİMİ A.Ş. PARA PIYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EIB",
+        "Adi": "QİNVEST PORTFÖY DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EID",
+        "Adi": "QİNVEST PORTFÖY HİSSE SENEDİ FONU (HİSSE YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EIC",
+        "Adi": "QİNVEST PORTFÖY İKİNCİ DEĞİŞKEN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "PDD",
+        "Adi": "QİNVEST PORTFÖY KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ELZ",
+        "Adi": "QİNVEST PORTFÖY KATILIM HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "KIS",
+        "Adi": "QİNVEST PORTFÖY KİRA SERTİFİKASI KATILIM (DÖVİZ) FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EKF",
+        "Adi": "QİNVEST PORTFÖY KİRA SERTİFİKASI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "EIL",
+        "Adi": "QİNVEST PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ERS",
+        "Adi": "QİNVEST PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "EHX",
+        "Adi": "QİNVEST PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ERP",
+        "Adi": "QİNVEST PORTFÖY YÖNETİMİ A.Ş. RE PİE GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "EDX",
+        "Adi": "QİNVEST PORTFÖY YÖNETİMİ A.Ş.DEĞİŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EKX",
+        "Adi": "QİNVEST PORTFÖY YÖNETİMİ A.Ş.KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "EPX",
+        "Adi": "QİNVEST PORTFÖY YÖNETİMİ A.Ş.PARA PIYASASI ŞEMSIYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ESX",
+        "Adi": "QİNVEST PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FGA",
+        "Adi": "QNB FINANS PORTFÖY ALTIN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "FUS",
+        "Adi": "QNB FINANS PORTFÖY AMERIKAN DOLARI YABANCI BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "FNO",
+        "Adi": "QNB FINANS PORTFÖY BIRINCI DEĞIŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FYD",
+        "Adi": "QNB FINANS PORTFÖY BIRINCI HISSE SENEDI FONU (HISSE SENEDI YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FI3",
+        "Adi": "QNB FINANS PORTFÖY BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "DJA",
+        "Adi": "QNB FINANS PORTFÖY DOW JONES İSTANBUL 20 HISSE SENEDI YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "FUB",
+        "Adi": "QNB FINANS PORTFÖY EUROBOND BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FGS",
+        "Adi": "QNB FINANS PORTFÖY GÜMÜŞ BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "FYT",
+        "Adi": "QNB FINANS PORTFÖY KISA VADELI BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FXK",
+        "Adi": "QNB FINANS PORTFÖY KIYMETLI MADENLER ŞEMSIYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FYO",
+        "Adi": "QNB FINANS PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FI5",
+        "Adi": "QNB FINANS PORTFÖY PARA PIYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OJK",
+        "Adi": "QNB FİNANS PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FFH",
+        "Adi": "QNB FİNANS PORTFÖY ÇOKLU VARLIK KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FFP",
+        "Adi": "QNB FİNANS PORTFÖY FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "OJT",
+        "Adi": "QNB FİNANS PORTFÖY TEKNOLOJİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FXH",
+        "Adi": "QNB FİNANS PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "NBY",
+        "Adi": "QNB FİNANS PORTFÖY YÖNETİMİ A.Ş. QNBEYOND GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "FXB",
+        "Adi": "QNB FİNANS PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FXD",
+        "Adi": "QNB FİNANS PORTFÖY YÖNETİMİ A.Ş.DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FXU",
+        "Adi": "QNB FİNANS PORTFÖY YÖNETİMİ A.Ş.FON SEPETİ ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FXT",
+        "Adi": "QNB FİNANS PORTFÖY YÖNETİMİ A.Ş.KATILIM ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FXP",
+        "Adi": "QNB FİNANS PORTFÖY YÖNETİMİ A.Ş.PARA PİYASASI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "FXS",
+        "Adi": "QNB FİNANS PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "RJA",
+        "Adi": "RAYMOND JAMES MENKUL KIYMETLER  A TİPİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RJL",
+        "Adi": "RAYMOND JAMES MENKUL KIYMETLER A.Ş. (B)TİPİ LİKİT FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RJK",
+        "Adi": "RAYMOND JAMES YATIRIM MENKUL KIYMETLER A.Ş. A TİPİ KARMA FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RJB",
+        "Adi": "RAYMOND JAMES YATIRIM MENKUL KIYMETLER A.Ş. B TİPİ DEĞİŞKEN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RJG",
+        "Adi": "RE-PIE PORTFÖY ALTIN KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RPD",
+        "Adi": "RE-PIE PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "RP2",
+        "Adi": "RE-PIE PORTFÖY YÖNETİM A.Ş. ANADOLU STRATEJİK GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RAS",
+        "Adi": "RE-PIE PORTFÖY YÖNETİM A.Ş. ASYA STRATEJİK GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RP9",
+        "Adi": "RE-PIE PORTFÖY YÖNETİM A.Ş. NEVA GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RP1",
+        "Adi": "RE-PIE PORTFÖY YÖNETİM A.Ş. NOVADA URFA GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RP8",
+        "Adi": "RE-PIE PORTFÖY YÖNETİM A.Ş. TEKNOLOJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RP7",
+        "Adi": "RE-PIE PORTFÖY YÖNETİM A.Ş. TURESİF GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "REC",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. ANATOLİA GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RP4",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. AVRASYA STRATEJİK GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RP3",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. AVRUPA STRATEJİK GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RR2",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ KARMA TEKNOLOJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RTF",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. COLENDİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RG5",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. DİCLE GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "REG",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. ENERJİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "REB",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. F&B GİRİŞİM SERMAYESİ  YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RG4",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. FIRAT GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RR3",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. FİNBERG GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RP6",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. GETİR GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RR1",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. IOT TECH  GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RR6",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. İKİNCİ FİNBERG GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RFT",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. İKİNCİ KARMA GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "REX",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "RG2",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. LEVENT GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RPF",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. PERAKENDE GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RG3",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. TRAKYA GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "REA",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. ÜÇÜNCÜ KARMA GİRİŞİM SERMAYESİ  YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RG1",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş. YILDIZ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RP5",
+        "Adi": "RE-PIE PORTFÖY YÖNETİMİ A.Ş.MİLENYUM GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RR5",
+        "Adi": "RE-PİE PORTFÖY YÖNETİMİ A.Ş. ARF GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "RR4",
+        "Adi": "RE-PİE PORTFÖY YÖNETİMİ A.Ş. ATAR GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "RDX",
+        "Adi": "RE-PİE PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "AN1",
+        "Adi": "STRATEJİ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ST1",
+        "Adi": "STRATEJİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "FXA",
+        "Adi": "STRATEJİ PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "SHX",
+        "Adi": "STRATEJİ PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "SSX",
+        "Adi": "STRATEJİ PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "SUY",
+        "Adi": "SUB FONUNA BAĞLI YAN HESAP (TRFDGOZ71915)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SY1",
+        "Adi": "SUB FONUNA BAĞLı YAN HESAP (TRSAEST91812)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SY2",
+        "Adi": "SUB FONUNA BAĞLı YAN HESAP (TRSBMKS12214)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SY3",
+        "Adi": "SUB FONUNA BAĞLı YAN HESAP (TRSBMKS12222)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SY4",
+        "Adi": "SUB FONUNA BAĞLı YAN HESAP (TRSBMKS12230)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TBX",
+        "Adi": "TACIRLER PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TPF",
+        "Adi": "TACİRLER PORTFÖY BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TCD",
+        "Adi": "TACİRLER PORTFÖY DEĞIŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TKF",
+        "Adi": "TACİRLER PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TCB",
+        "Adi": "TACİRLER PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TDX",
+        "Adi": "TACİRLER PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "THX",
+        "Adi": "TACİRLER PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TAX",
+        "Adi": "TACİRLER PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXO",
+        "Adi": "TEB PORTFÖY  YÖNETİMİ A.Ş. KORUMA AMAÇLI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TAO",
+        "Adi": "TEB PORTFÖY ALARKO GRUBU DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TUA",
+        "Adi": "TEB PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TFF",
+        "Adi": "TEB PORTFÖY AMERİKA TEKNOLOJİ YABANCI BYF FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YZH",
+        "Adi": "TEB PORTFÖY BIST BANKA ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TE4",
+        "Adi": "TEB PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TPC",
+        "Adi": "TEB PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TBT",
+        "Adi": "TEB PORTFÖY BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TPL",
+        "Adi": "TEB PORTFÖY EUROBOND (DÖVİZ) BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TYH",
+        "Adi": "TEB PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TNI",
+        "Adi": "TEB PORTFÖY ING BANK ÖZEL BANKACILIK VE PLATİNUM DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IGL",
+        "Adi": "TEB PORTFÖY ING BANK PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "IDY",
+        "Adi": "TEB PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TJI",
+        "Adi": "TEB PORTFÖY İKİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TNK",
+        "Adi": "TEB PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TPZ",
+        "Adi": "TEB PORTFÖY KİRA SERTİFİKALARI (DÖVİZ) KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TE3",
+        "Adi": "TEB PORTFÖY MUTLAK GETİRİ HEDEFLİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TOT",
+        "Adi": "TEB PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TKM",
+        "Adi": "TEB PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TJF",
+        "Adi": "TEB PORTFÖY SÜRDÜRÜLEBİLİRLİK FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TXD",
+        "Adi": "TEB PORTFÖY YÖNETIMI A.Ş. DEĞIŞKEN ŞEMSIYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXB",
+        "Adi": "TEB PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXH",
+        "Adi": "TEB PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXK",
+        "Adi": "TEB PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXM",
+        "Adi": "TEB PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXP",
+        "Adi": "TEB PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXS",
+        "Adi": "TEB PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TXF",
+        "Adi": "TEB PORTFÖY YÖNETİMİ A.Ş.FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TRX",
+        "Adi": "TERA PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TY1",
+        "Adi": "TPU FONUNA BAĞLI YAN HESAP (TRSAYNS51619)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TXX",
+        "Adi": "TROYA PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "TTX",
+        "Adi": "TROYA PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "HHF",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHR",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHV",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHE",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHB",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHK",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM KAMU BORÇLANMA ARAÇLARI STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHG",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHN",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM KATILIM DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHM",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHA",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHD",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHT",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHO",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHZ",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHI",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHU",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHH",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEU",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HEN",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHC",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHP",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "HHY",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. HEM TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGA",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VKJ",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VKE",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEG",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM BİRİNCİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGD",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM BİRİNCİ KAMU BORÇLANMA ARAÇLARI GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VES",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEE",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGE",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM DİNAMİK DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEH",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VET",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEB",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM KATILIM DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEY",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM KATILIM DİNAMİK DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VYB",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM KATILIM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VER",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGB",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEI",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGF",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEO",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGH",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEV",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGG",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS DENGELİ KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGC",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS DİNAMİK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGK",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VED",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS MUHAFAZAKAR KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGZ",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEP",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEL",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGT",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM PERA 2 DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGY",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM PERA 3 DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEK",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VEU",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "VGP",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. VEM TURKCELL GRUBU ÇALIŞANLARINA YÖNELİK PERA 1 DEĞİŞKEN GRUP EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHN",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM ALTIN KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZEB",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM BAŞLANGIÇ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZEK",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM BAŞLANGIÇ KATILIM EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHE",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHB",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM HİSSE SENEDİ EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHG",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM KAMU BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHD",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM KAMU DIŞ BORÇLANMA ARAÇLARI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHF",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHT",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM KATILIM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHA",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHK",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM KATKI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHM",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM OKS AGRESİF DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHP",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM OKS AGRESİF KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHU",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM OKS ATAK DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHV",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM OKS ATAK KATILIM DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHY",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM OKS DENGELİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHI",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM OKS KATILIM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHC",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM OKS STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHZ",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM OKS TEMKİNLİ DEĞİŞKEN EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHR",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM PARA PİYASASI EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "ZHS",
+        "Adi": "TÜRKİYE HAYAT VE EMEKLİLİK A.Ş. ZEM STANDART EMEKLİLİK YATIRIM FONU",
+        "Tipi": "M"
+    },
+    {
+        "Kodu": "TVI",
+        "Adi": "TÜRKİYE KALKINMA VE YATIRIM BANKASI A.Ş. İKİNCİ VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TKP",
+        "Adi": "TÜRKİYE KALKINMA VE YATIRIM BANKASI A.Ş. VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TCV",
+        "Adi": "TÜRKİYE VARLIK FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "UMV",
+        "Adi": "ÜNLÜ MENKUL DEĞERLER A.Ş. ANGORA VARLIK FİNANSMAN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SUA",
+        "Adi": "ÜNLÜ PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "UPH",
+        "Adi": "ÜNLÜ PORTFÖY HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SUB",
+        "Adi": "ÜNLÜ PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "UPP",
+        "Adi": "ÜNLÜ PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "SUC",
+        "Adi": "ÜNLÜ PORTFÖY ÜÇÜNCÜ DEĞIŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "UPG",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş. BİRİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "UDX",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "UHX",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "UG2",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş. İKİNCİ GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "UOX",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş. KORUMA AMAÇLI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "USX",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "UJG",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş.BİRİNCİ GİRİŞİM SERMAYESİ YATIRIM FONU",
+        "Tipi": "0"
+    },
+    {
+        "Kodu": "UBX",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "UTX",
+        "Adi": "ÜNLÜ PORTFÖY YÖNETİMİ A.Ş.PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YBX",
+        "Adi": "YAPI KREDI PORTFÖY YÖNETİMİ A.Ş. BORÇLANMA ARAÇLARI ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YKT",
+        "Adi": "YAPI KREDİ PORTFÖY ALTIN FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YEF",
+        "Adi": "YAPI KREDİ PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YAN",
+        "Adi": "YAPI KREDİ PORTFÖY BİRİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YHS",
+        "Adi": "YAPI KREDİ PORTFÖY BİRİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YDK",
+        "Adi": "YAPI KREDİ PORTFÖY ÇALIŞAN HESAP KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YBE",
+        "Adi": "YAPI KREDİ PORTFÖY EUROBOND (DOLAR) BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YZG",
+        "Adi": "YAPI KREDİ PORTFÖY GÜMÜŞ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YAC",
+        "Adi": "YAPI KREDİ PORTFÖY İKİNCİ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YDI",
+        "Adi": "YAPI KREDİ PORTFÖY İKİNCİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YAK",
+        "Adi": "YAPI KREDİ PORTFÖY KARMA FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YHT",
+        "Adi": "YAPI KREDİ PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YFV",
+        "Adi": "YAPI KREDİ PORTFÖY KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YAS",
+        "Adi": "YAPI KREDİ PORTFÖY KOÇ HOLDİNG İŞTİRAK VE HİSSE SENEDİ FONU(HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YOT",
+        "Adi": "YAPI KREDİ PORTFÖY ORTA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YBS",
+        "Adi": "YAPI KREDİ PORTFÖY ÖZEL SEKTÖR BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YLB",
+        "Adi": "YAPI KREDİ PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YBP",
+        "Adi": "YAPI KREDİ PORTFÖY PY BİRİNCİ DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YOA",
+        "Adi": "YAPI KREDİ PORTFÖY PY BORÇLANMA ARAÇLARI (DÖVİZ) ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YHP",
+        "Adi": "YAPI KREDİ PORTFÖY PY PARA PİYASASI ÖZEL FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YDP",
+        "Adi": "YAPI KREDİ PORTFÖY PY ÜÇÜNCÜ DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YHZ",
+        "Adi": "YAPI KREDİ PORTFÖY TEKNOLOJİ ŞİRKETLERİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YSU",
+        "Adi": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YPV",
+        "Adi": "YAPI KREDİ PORTFÖY ÜÇÜNCÜ FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YTD",
+        "Adi": "YAPI KREDİ PORTFÖY YABANCI FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YAY",
+        "Adi": "YAPI KREDİ PORTFÖY YABANCI TEKNOLOJİ SEKTÖRÜ HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "YDX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YFX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YHX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YRX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. KARMA ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YKX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YMX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. KIYMETLİ MADENLER ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YOX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. KORUMA AMAÇLI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YPX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "YSX",
+        "Adi": "YAPI KREDİ PORTFÖY YÖNETİMİ A.Ş. SERBEST ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZGD",
+        "Adi": "ZİRAAT PORTFÖY ALTIN KATILIM  BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "TCA",
+        "Adi": "ZİRAAT PORTFÖY ALTIN KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZJL",
+        "Adi": "ZİRAAT PORTFÖY BIST 100 DIŞI ŞİRKETLER HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZLH",
+        "Adi": "ZİRAAT PORTFÖY BIST 100-30 ŞİRKETLERİ HİSSE SENEDİ FONU ( HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZJV",
+        "Adi": "ZİRAAT PORTFÖY BIST 30 DIŞI YILDIZ PAZAR ŞİRKETLERİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZBB",
+        "Adi": "ZİRAAT PORTFÖY BIST 30 ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZPP",
+        "Adi": "ZİRAAT PORTFÖY BIST BANKA DIŞI LİKİT 10 ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZBP",
+        "Adi": "ZİRAAT PORTFÖY BIST LİKİT BANKA ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZDD",
+        "Adi": "ZİRAAT PORTFÖY BİRİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZEA",
+        "Adi": "ZİRAAT PORTFÖY BİST 30 EŞİT AĞIRLIKLI ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZEO",
+        "Adi": "ZİRAAT PORTFÖY BİST 50-30 ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "TZT",
+        "Adi": "ZİRAAT PORTFÖY BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TZC",
+        "Adi": "ZİRAAT PORTFÖY BÜYÜYEN ÇOCUKLARA YÖNELİK DEĞİŞKEN ÖZEL FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZPC",
+        "Adi": "ZİRAAT PORTFÖY FON SEPETİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HKV",
+        "Adi": "ZİRAAT PORTFÖY HALKBANK KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HPV",
+        "Adi": "ZİRAAT PORTFÖY HALKBANK KISA VADELİ KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "HLL",
+        "Adi": "ZİRAAT PORTFÖY HALKBANK PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TZD",
+        "Adi": "ZİRAAT PORTFÖY HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZBD",
+        "Adi": "ZİRAAT PORTFÖY İKİNCİ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "VFK",
+        "Adi": "ZİRAAT PORTFÖY İKİNCİ KISA VADELİ KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZKP",
+        "Adi": "ZİRAAT PORTFÖY KATILIM 30 ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZKE",
+        "Adi": "ZİRAAT PORTFÖY KATILIM 30 EŞİT AĞIRLIKLI ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZPE",
+        "Adi": "ZİRAAT PORTFÖY KATILIM ENDEKSİ HİSSE SENEDİ FONU (HİSSE SENEDİ YOĞUN FON)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZPF",
+        "Adi": "ZİRAAT PORTFÖY KATILIM FONU (DÖVİZ)",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TZV",
+        "Adi": "ZİRAAT PORTFÖY KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZPK",
+        "Adi": "ZİRAAT PORTFÖY KISA VADELİ KİRA SERTİFİKALARI KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZPG",
+        "Adi": "ZİRAAT PORTFÖY KİRA SERTİFİKALARI (SUKUK) KATILIM FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "TZL",
+        "Adi": "ZİRAAT PORTFÖY PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZRE",
+        "Adi": "ZİRAAT PORTFÖY RİSK EŞİT BANKA DIŞI 20 ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZSF",
+        "Adi": "ZİRAAT PORTFÖY S&P/OIC COMCEC (İSEDAK) 50 SHARİAH ENDEKSİ YABANCI HİSSE SENEDİ FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZDZ",
+        "Adi": "ZİRAAT PORTFÖY ÜÇÜNCÜ DEĞİŞKEN FON",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "VKT",
+        "Adi": "ZİRAAT PORTFÖY VAKIFBANK KISA VADELİ BORÇLANMA ARAÇLARI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "VK6",
+        "Adi": "ZİRAAT PORTFÖY VAKIFBANK PARA PİYASASI FONU",
+        "Tipi": "F"
+    },
+    {
+        "Kodu": "ZTM",
+        "Adi": "ZİRAAT PORTFÖY YILDIZ PAZAR LİKİT TEMETTÜ ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZPT",
+        "Adi": "ZİRAAT PORTFÖY YILDIZ PAZAR TEKNOLOJİ VE İLETİŞİM 10 ENDEKSİ HİSSE SENEDİ YOĞUN BORSA YATIRIM FONU",
+        "Tipi": "N"
+    },
+    {
+        "Kodu": "ZDX",
+        "Adi": "ZİRAAT PORTFÖY YÖNETİMİ A.Ş. DEĞİŞKEN ŞEMSİYE FON",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZFX",
+        "Adi": "ZİRAAT PORTFÖY YÖNETİMİ A.Ş. FON SEPETİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZUG",
+        "Adi": "ZİRAAT PORTFÖY YÖNETİMİ A.Ş. ÜSKÜDAR GAYRİMENKUL YATIRIM FONU",
+        "Tipi": "1"
+    },
+    {
+        "Kodu": "ZBX",
+        "Adi": "ZİRAAT PORTFÖY YÖNETİMİ A.Ş.BORÇLANMA ARAÇLARI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZHX",
+        "Adi": "ZİRAAT PORTFÖY YÖNETİMİ A.Ş.HİSSE SENEDİ ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZKX",
+        "Adi": "ZİRAAT PORTFÖY YÖNETİMİ A.Ş.KATILIM ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZPX",
+        "Adi": "ZİRAAT PORTFÖY YÖNETİMİ A.Ş.PARA PİYASASI ŞEMSİYE FONU",
+        "Tipi": "X"
+    },
+    {
+        "Kodu": "ZSX",
+        "Adi": "ZİRAAT PORTFÖY YÖNETİMİ A.Ş.SERBEST ŞEMSİYE FON",
+        "Tipi": "X"
+    }
+]

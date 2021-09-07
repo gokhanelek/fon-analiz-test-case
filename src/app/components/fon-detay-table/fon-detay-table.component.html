@@ -1,0 +1,160 @@
+<mat-card>
+  <mat-table class="w-full" mat-table [dataSource]="fonService.chartData$">
+    <ng-container matColumnDef="Tarih">
+      <th mat-header-cell *matHeaderCellDef>Tarih</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.label }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="BankaBonosu">
+      <th mat-header-cell *matHeaderCellDef>Banka Bonosu</th>
+      <td mat-cell *matCellDef="let element">{{ element.BankaBonosu }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="Diger">
+      <th mat-header-cell *matHeaderCellDef>Diğer</th>
+      <td mat-cell *matCellDef="let element">{{ element.Diger }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="DevletTahvili">
+      <th mat-header-cell *matHeaderCellDef>Devlet Tahvili</th>
+      <td mat-cell *matCellDef="let element">{{ element.DevletTahvili }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="DovizOdemeliBono">
+      <th mat-header-cell *matHeaderCellDef>Doviz Odemeli Bono</th>
+      <td mat-cell *matCellDef="let element">{{ element.DovizOdemeliBono }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="DovizOdemeliTahvil">
+      <th mat-header-cell *matHeaderCellDef>Doviz Odemeli Tahvil</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.DovizOdemeliTahvil }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Eurobond">
+      <th mat-header-cell *matHeaderCellDef>Eurobond</th>
+      <td mat-cell *matCellDef="let element">{{ element.Eurobond }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="FinansmanBonosu">
+      <th mat-header-cell *matHeaderCellDef>Finansman Bonosu</th>
+      <td mat-cell *matCellDef="let element">{{ element.FinansmanBonosu }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="FonKatilmaBelgesi">
+      <th mat-header-cell *matHeaderCellDef>Fon Katilma Belgesi</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.FonKatilmaBelgesi }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="GayrimenkulSertifikasi">
+      <th mat-header-cell *matHeaderCellDef>Gayrimenkul Sertifikasi</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.GayrimenkulSertifikasi }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="HazineBonosu">
+      <th mat-header-cell *matHeaderCellDef>Hazine Bonosu</th>
+      <td mat-cell *matCellDef="let element">{{ element.HazineBonosu }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="HisseSenedi">
+      <th mat-header-cell *matHeaderCellDef>Hisse Senedi</th>
+      <td mat-cell *matCellDef="let element">{{ element.HisseSenedi }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="KamuDisBorclanmaAraci">
+      <th mat-header-cell *matHeaderCellDef>Kamu Dis Borclanma Araci</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.KamuDisBorclanmaAraci }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="KamuKiraSertifikasi">
+      <th mat-header-cell *matHeaderCellDef>Kamu Kira Sertifikasi</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.KamuKiraSertifikasi }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="KatilimHesabi">
+      <th mat-header-cell *matHeaderCellDef>Katilim Hesabi</th>
+      <td mat-cell *matCellDef="let element">{{ element.KatilimHesabi }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="KiymetliMaden">
+      <th mat-header-cell *matHeaderCellDef>Kiymetli Maden</th>
+      <td mat-cell *matCellDef="let element">{{ element.KiymetliMaden }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="OzelSektorKiraSertifikasi">
+      <th mat-header-cell *matHeaderCellDef>Ozel Sektor Kira Sertifikasi</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.OzelSektorKiraSertifikasi }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="OzelSektorTahvili">
+      <th mat-header-cell *matHeaderCellDef>Oze Sektor Tahvili</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.OzelSektorTahvili }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="TersRepo">
+      <th mat-header-cell *matHeaderCellDef>Ters Repo</th>
+      <td mat-cell *matCellDef="let element">{{ element.TersRepo }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="TPP">
+      <th mat-header-cell *matHeaderCellDef>TPP</th>
+      <td mat-cell *matCellDef="let element">{{ element.TPP }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="TurevAraci">
+      <th mat-header-cell *matHeaderCellDef>Turev Araci</th>
+      <td mat-cell *matCellDef="let element">{{ element.TurevAraci }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="VarligaDayaliMenkulKiymet">
+      <th mat-header-cell *matHeaderCellDef>Varliga Dayali Menkul Kiymet</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.VarligaDayaliMenkulKiymet }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="VadeliMevduat">
+      <th mat-header-cell *matHeaderCellDef>Vadeli Mevduat</th>
+      <td mat-cell *matCellDef="let element">{{ element.VadeliMevduat }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="YabanciBorclanmaAraci">
+      <th mat-header-cell *matHeaderCellDef>Yabanci Borclanma Araci</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.YabanciBorclanmaAraci }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="YabanciHisseSenedi">
+      <th mat-header-cell *matHeaderCellDef>Yabanci Hisse Senedi</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.YabanciHisseSenedi }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="YabanciMenkulKiymet">
+      <th mat-header-cell *matHeaderCellDef>Yabanci Menkul Kiymet</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.YabanciMenkulKiymet }}
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+  </mat-table>
+</mat-card>
