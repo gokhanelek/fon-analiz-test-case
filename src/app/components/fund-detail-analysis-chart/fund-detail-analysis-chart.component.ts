@@ -1,6 +1,6 @@
 import { Component, OnInit } from "@angular/core";
 import { map, tap } from "rxjs/operators";
-import { FonAnaliziService } from "src/app/services/fon-analizi.service";
+import { FundAnalysisService } from "src/app/services/fund-analysis.service";
 
 const data = {
   chart: {
@@ -19,18 +19,18 @@ const data = {
 };
 
 @Component({
-  selector: "vex-fon-detay-analiz-chart",
-  templateUrl: "./fon-detay-analiz-chart.component.html",
-  styleUrls: ["./fon-detay-analiz-chart.component.scss"],
+  selector: "vex-fund-detail-analysis-chart",
+  templateUrl: "./fund-detail-analysis-chart.component.html",
+  styleUrls: ["./fund-detail-analysis-chart.component.scss"],
 })
-export class FonDetayAnalizChartComponent implements OnInit {
+export class FundDetailAnalysisChartComponent implements OnInit {
   width = "100%";
   height = 400;
   type = "msline";
   dataFormat = "json";
   dataSource = data;
 
-  constructor(private fonAnalizService: FonAnaliziService) {
+  constructor(private fonAnalizService: FundAnalysisService) {
     fonAnalizService.chartData$
       .pipe(
         map((data) => {
@@ -40,7 +40,7 @@ export class FonDetayAnalizChartComponent implements OnInit {
               data: [],
             },
             {
-              seriesname: "Diğer",
+              seriesname: "Diger",
               data: [],
             },
             {

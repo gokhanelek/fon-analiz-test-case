@@ -1,13 +1,13 @@
 import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
-import { FonAnaliziService } from 'src/app/services/fon-analizi.service';
+import { FundAnalysisService } from 'src/app/services/fund-analysis.service';
 
 @Component({
-  selector: 'vex-fon-detay-table',
-  templateUrl: './fon-detay-table.component.html',
-  styleUrls: ['./fon-detay-table.component.scss'],
+  selector: 'vex-fund-detail-table',
+  templateUrl: './fund-detail-table.component.html',
+  styleUrls: ['./fund-detail-table.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class FonDetayTableComponent implements OnInit {
+export class FundDetailTableComponent implements OnInit {
 
   displayedColumns: string[] = [
     'Tarih',
@@ -38,7 +38,7 @@ export class FonDetayTableComponent implements OnInit {
     'YabanciMenkulKiymet',
   ];
 
-  constructor(public fonService: FonAnaliziService) { }
+  constructor(public fonService: FundAnalysisService) { }
 
   ngOnInit(): void {
   }

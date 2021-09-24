@@ -4,8 +4,8 @@ import { endOfWeek, format, getMonth, getWeek, startOfWeek } from "date-fns";
 import { BehaviorSubject, Observable } from "rxjs";
 import { map, tap } from "rxjs/operators";
 import { environment } from "src/environments/environment";
-import { FonCodeResponse } from "../models/fon-analizi";
-import { FonInfo } from "../models/fon-info";
+import { FonCodeResponse } from "../models/fund-analysis";
+import { FonInfo } from "../models/fund-analysis-info";
 
 const FON_TYPES = [
   { label: "Memkul Kıymet Yatırım Fonları", value: 1 },
@@ -26,7 +26,7 @@ enum PERIODS {
 @Injectable({
   providedIn: "root",
 })
-export class FonAnaliziService {
+export class FundAnalysisService {
   apiUrl = environment.apiUrl;
 
   private fonTypeSubject = new BehaviorSubject<{}>(FON_TYPES);
@@ -76,7 +76,7 @@ export class FonAnaliziService {
             });
           }
 
-          if (data === null) return data;
+
 
           if (period === PERIODS.DAYLY) {
             data.forEach(

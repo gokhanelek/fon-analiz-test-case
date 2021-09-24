@@ -1,18 +1,18 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FonAnaliziPageComponent } from './fon-analizi/fon-analizi-page.component';
-import { FonAnalizFilterModule } from 'src/app/components/fon-analiz-filter/fon-analiz-filter.module';
-import { FonDetayAnalizChartModule } from '../components/fon-detay-analiz-chart/fon-detay-analiz-chart.module';
-import { FonDetayTableModule } from '../components/fon-detay-table/fon-detay-table.module';
+import { FundAnalysisFilterModule } from 'src/app/components/fund-analysis-filter/fund-analysis-filter.module';
+import { FundDetailAnalysisChartModule } from '../components/fund-detail-analysis-chart/fund-detail-analysis-chart.module';
+import { FundDetailTableModule } from '../components/fund-detail-table/fund-detail-table.module';
 
 
 @NgModule({
   declarations: [FonAnaliziPageComponent],
   imports: [
     CommonModule,
-    FonAnalizFilterModule,
-    FonDetayAnalizChartModule,
-    FonDetayTableModule
+    FundAnalysisFilterModule,
+    FundDetailAnalysisChartModule,
+    FundDetailTableModule
   ]
 })
 export class PagesModule { }

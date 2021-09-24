@@ -1,55 +1,25 @@
 <mat-card class="card">
-  <form [formGroup]="filterForm" (ngSubmit)="goster()">
+  <form [formGroup]="filterForm" (ngSubmit)="onFilter()">
     <mat-form-field appearance="fill">
       <mat-label>Fon Tip</mat-label>
-      <mat-select
-        formControlName="fonType"
-        (selectionChange)="changeFonType($event.value)"
-        required
-      >
-        <mat-option
-          *ngFor="let type of fonAnalizService.fonTypes$ | async"
-          [value]="type.value"
-        >
+      <mat-select formControlName="fonType" (selectionChange)="changeFonType($event.value)" required>
+        <mat-option *ngFor="let type of fonAnalizService.fonTypes$ | async" [value]="type.value">
           {{ type.label }}
         </mat-option>
       </mat-select>
     </mat-form-field>
     <mat-form-field appearance="fill">
       <mat-label>Fon Kodu</mat-label>
-      <input
-        type="text"
-        matInput
-        formControlName="fonCode"
-        required
-        [matAutocomplete]="auto"
-      />
+      <input type="text" matInput formControlName="fonCode" required [matAutocomplete]="auto" />
       <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayFn">
-        <mat-option
-          *ngFor="let code of filteredFons$ | async"
-          [value]="code.Kodu"
-        >
+        <mat-option *ngFor="let code of filteredFons$ | async" [value]="code.Kodu">
           {{ code.Kodu }}
         </mat-option>
       </mat-autocomplete>
     </mat-form-field>
-    <!-- <mat-form-field appearance="fill">
-            <mat-label>Fon Kodu</mat-label>
-            <mat-select formControlName="fonCode" required>
-                <mat-option *ngFor="let code of fonAnalizService.fonCodes$ | async" [value]="code.Kodu">
-                    {{code.Kodu}}
-                </mat-option>
-            </mat-select>
-        </mat-form-field> -->
     <mat-form-field appearance="fill">
       <mat-label>Başlangıç Tarihi - Bitiş Tarihi</mat-label>
-      <mat-date-range-input
-        [rangePicker]="picker"
-        formGroupName="range"
-        [min]="minDate"
-        [max]="maxDate"
-        required
-      >
+      <mat-date-range-input [rangePicker]="picker" formGroupName="range" [min]="minDate" [max]="maxDate" required>
         <input matStartDate formControlName="start" placeholder="Start date" />
         <input matEndDate formControlName="end" placeholder="End date" />
       </mat-date-range-input>
@@ -59,10 +29,7 @@
     <mat-form-field appearance="fill">
       <mat-label>Gösterim Periodu</mat-label>
       <mat-select formControlName="displayPeriod" required>
-        <mat-option
-          *ngFor="let period of fonAnalizService.displayPeriods$ | async"
-          [value]="period"
-        >
+        <mat-option *ngFor="let period of fonAnalizService.displayPeriods$ | async" [value]="period">
           {{ period }}
         </mat-option>
       </mat-select>

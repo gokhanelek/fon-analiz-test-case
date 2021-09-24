@@ -1,17 +1,17 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { FonDetayTableComponent } from './fon-detay-table.component';
+import { FundDetailTableComponent } from './fund-detail-table.component';
 import {MatTableModule} from '@angular/material/table';
 import { MatCardModule } from '@angular/material/card';
 
 @NgModule({
-  declarations: [FonDetayTableComponent],
+  declarations: [FundDetailTableComponent],
   imports: [
     CommonModule,
     MatTableModule,
     MatCardModule
   ],
-  exports: [FonDetayTableComponent],
+  exports: [FundDetailTableComponent],
 })
-export class FonDetayTableModule {
+export class FundDetailTableModule {
 }

@@ -1,18 +1,18 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { FonDetayAnalizChartComponent } from './fon-detay-analiz-chart.component';
+import { FundDetailAnalysisChartComponent } from './fund-detail-analysis-chart.component';
 import { FusionChartsModule } from 'angular-fusioncharts';
 import { MatCardModule } from '@angular/material/card';
 
 
 @NgModule({
-  declarations: [FonDetayAnalizChartComponent],
+  declarations: [FundDetailAnalysisChartComponent],
   imports: [
     CommonModule,
     FusionChartsModule,
     MatCardModule,
   ],
-  exports: [FonDetayAnalizChartComponent],
+  exports: [FundDetailAnalysisChartComponent],
 })
-export class FonDetayAnalizChartModule {
+export class FundDetailAnalysisChartModule {
 }

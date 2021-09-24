@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { FonDetayTableComponent } from './fon-detay-table.component';
+import { FundAnalysisFilterComponent } from './fund-analysis-filter.component';
 
-describe('FonDetayTableComponent', () => {
-  let component: FonDetayTableComponent;
-  let fixture: ComponentFixture<FonDetayTableComponent>;
+describe('FonAnalizFilterComponent', () => {
+  let component: FundAnalysisFilterComponent;
+  let fixture: ComponentFixture<FundAnalysisFilterComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ FonDetayTableComponent ]
+      declarations: [ FundAnalysisFilterComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(FonDetayTableComponent);
+    fixture = TestBed.createComponent(FundAnalysisFilterComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

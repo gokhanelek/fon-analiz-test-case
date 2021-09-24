@@ -1,16 +1,16 @@
 import { Component, OnInit } from "@angular/core";
-import { FormBuilder, FormControl, Validators } from "@angular/forms";
+import { FormBuilder, Validators } from "@angular/forms";
 import { Observable } from "rxjs";
-import { map, startWith, switchMap, tap } from "rxjs/operators";
-import { FonCodeResponse } from "src/app/models/fon-analizi";
-import { FonAnaliziService } from "src/app/services/fon-analizi.service";
+import { map, startWith, switchMap } from "rxjs/operators";
+import { FonCodeResponse } from "src/app/models/fund-analysis";
+import { FundAnalysisService } from "src/app/services/fund-analysis.service";
 
 @Component({
-  selector: "vex-fon-analiz-filter",
-  templateUrl: "./fon-analiz-filter.component.html",
-  styleUrls: ["./fon-analiz-filter.component.scss"],
+  selector: "vex-fund-analysis-filter",
+  templateUrl: "./fund-analysis-filter.component.html",
+  styleUrls: ["./fund-analysis-filter.component.scss"],
 })
-export class FonAnalizFilterComponent implements OnInit {
+export class FundAnalysisFilterComponent implements OnInit {
   minDate = new Date("2021-01-01");
   maxDate = new Date();
   isStatus: boolean = false;
@@ -28,7 +28,7 @@ export class FonAnalizFilterComponent implements OnInit {
   filteredFons$: Observable<FonCodeResponse[]>;
 
   constructor(
-    public fonAnalizService: FonAnaliziService,
+    public fonAnalizService: FundAnalysisService,
     private fb: FormBuilder
   ) {
     this.filteredFons$ = this.filterForm.get("fonCode").valueChanges.pipe(
@@ -51,7 +51,7 @@ export class FonAnalizFilterComponent implements OnInit {
 
   ngOnInit(): void { }
 
-  goster(): void {
+  onFilter(): void {
     this.fonAnalizService
       .getFonInfoForCode({
         fonType: this.filterForm.get("fonType").value,

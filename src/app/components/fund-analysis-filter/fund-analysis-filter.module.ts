@@ -1,6 +1,6 @@
 import { NgModule } from "@angular/core";
 import { CommonModule } from "@angular/common";
-import { FonAnalizFilterComponent } from "./fon-analiz-filter.component";
+import { FundAnalysisFilterComponent } from "./fund-analysis-filter.component";
 import { MatSelectModule } from "@angular/material/select";
 import { MatDatepickerModule } from "@angular/material/datepicker";
 import { FormsModule, ReactiveFormsModule } from "@angular/forms";
@@ -12,7 +12,7 @@ import { MatAutocompleteModule } from "@angular/material/autocomplete";
 import { MatInputModule } from "@angular/material/input";
 
 @NgModule({
-  declarations: [FonAnalizFilterComponent],
+  declarations: [FundAnalysisFilterComponent],
   imports: [
     CommonModule,
     FormsModule,
@@ -26,6 +26,6 @@ import { MatInputModule } from "@angular/material/input";
     MatAutocompleteModule,
     MatInputModule,
   ],
-  exports: [FonAnalizFilterComponent],
+  exports: [FundAnalysisFilterComponent],
 })
-export class FonAnalizFilterModule {}
+export class FundAnalysisFilterModule { }
